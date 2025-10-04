@@ -1,18 +1,13 @@
 class Solution:
-    def nextPermutation(self, nums: List[int]) -> None:
-        n=len(nums)
+    def nextPermutation(self, arr):
+        n=len(arr)
         i=n-2
-        j=n-1
-        while i>=0 and nums[i]>=nums[i+1]:
+        while(i>=0 and arr[i]>=arr[i+1]):
             i=i-1
         if(i>=0):
-            while(nums[j]<=nums[i]):
+            j=n-1
+            while(arr[j]<=arr[i]):
                 j=j-1
-            nums[i],nums[j]=nums[j],nums[i]
-        left, right = i + 1, n - 1
-        while left < right:
-            nums[left], nums[right] = nums[right], nums[left]
-            left += 1
-            right -= 1
-
+            arr[i],arr[j]=arr[j],arr[i]
+        arr[i+1:]=reversed(arr[i+1:])
         
