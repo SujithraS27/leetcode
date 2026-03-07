@@ -1,0 +1,64 @@
+/**
+ * // This is MountainArray's API interface.
+ * // You should not implement it, or speculate about its implementation
+ * interface MountainArray {
+ *     public int get(int index) {}
+ *     public int length() {}
+ * }
+ */
+ 
+class Solution {
+    public int findInMountainArray(int target, MountainArray mountainArr) {
+          int n = mountainArr.length();
+        
+        // -------- Step 1: Find Peak --------
+        int left = 0;
+        int right = n - 1;
+        
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            
+            // check if we are going up
+            if (mountainArr.get(mid) < mountainArr.get(mid + 1)) {
+                left = mid + 1;   // peak is on the right
+            } else {
+                right = mid;      // peak is mid or left
+            }
+        }
+        
+        int peak = left;
+        
+        // -------- Step 2: Search in ascending part --------
+        int index = binarySearch(mountainArr, target, 0, peak, true);
+        if (index != -1) return index;
+        
+        // -------- Step 3: Search in descending part --------
+        return binarySearch(mountainArr, target, peak + 1, n - 1, false);
+    }
+
+    private int binarySearch(MountainArray arr, int target, int left, int right, boolean ascending) {
+        
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            int val = arr.get(mid);
+            
+            if (val == target)
+                return mid;
+            
+            if (ascending) {
+                if (val < target)
+                    left = mid + 1;
+                else
+                    right = mid - 1;
+            } 
+            else { // descending order
+                if (val < target)
+                    right = mid - 1;
+                else
+                    left = mid + 1;
+            }
+        }
+        
+        return -1;
+    }
+}
