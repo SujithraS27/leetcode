@@ -1,2 +1,2 @@
 # Write your MySQL query statement below
-SELECT id FROM (SELECT id,temperature,recordDate,LAG(temperature) OVER(ORDER BY recordDate) AS prev_temp,LAG(recordDate) OVER(ORDER BY recordDate) AS prev_date FROM Weather) AS w WHERE temperature>prev_temp AND DATEDIFF(recordDate,prev_date)=1
+SELECT today.id FROM Weather today JOIN Weather yesterday ON DATEDIFF(today.recordDate,yesterday.recordDate)=1 WHERE today.temperature>yesterday.temperature
