@@ -1,3 +1,15 @@
 # Write your MySQL query statement below
-WITH temp AS(SELECT player_id,device_id,event_date,games_played,ROW_NUMBER() OVER (PARTITION BY player_id ORDER BY event_date) AS rn,LAG(event_date) OVER(PARTITION BY player_id ORDER BY event_date) AS prev_date FROM Activity)
-SELECT ROUND(SUM(CASE WHEN rn=2 AND DATEDIFF(event_date, prev_date) = 1 THEN 1 ELSE 0 END)/COUNT(DISTINCT player_id),2) AS fraction FROM temp
+SELECT 
+ROUND(
+    COUNT(DISTINCT a1.player_id) * 1.0 /
+    (SELECT COUNT(DISTINCT player_id) FROM Activity),
+2
+) AS fraction
+FROM Activity a1
+JOIN (
+    SELECT player_id, MIN(event_date) AS first_login
+    FROM Activity
+    GROUP BY player_id
+) a2
+ON a1.player_id = a2.player_id
+AND DATEDIFF(a1.event_date, a2.first_login) = 1;
