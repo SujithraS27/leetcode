@@ -1,2 +1,12 @@
-WITH temp AS(SELECT id,student,LAG(student) OVER(ORDER BY id) as prev,lead(student) OVER(order by id) as next FROM Seat)
-(SELECT id,COALESCE(next,student) as student FROM temp WHERE id%2!=0)union all(SELECT id,COALESCE(prev,student) as student FROM temp WHERE id%2=0) ORDER BY id
+# Write your MySQL query statement below
+SELECT
+    CASE
+        WHEN id % 2 = 1 AND id != (SELECT MAX(id) FROM Seat)
+            THEN id + 1
+        WHEN id % 2 = 0
+            THEN id - 1
+        ELSE id
+    END AS id,
+    student
+FROM Seat
+ORDER BY id;
