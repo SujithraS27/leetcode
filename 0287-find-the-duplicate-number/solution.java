@@ -1,29 +1,23 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        cyclicsort(nums);
-        int ans=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==i+1){
-                continue;
-            }
-            else{
-                ans=nums[i];
-            }
+
+        int slow = nums[0];
+        int fast = nums[0];
+
+        // Phase 1: Find intersection
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+
+        // Phase 2: Find entrance of the cycle
+        slow = nums[0];
+
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return ans;
-    }
-    void cyclicsort(int[] nums){
-        int i=0;
-        while(i<nums.length){
-            int correct=nums[i]-1;
-            if(nums[i]!=nums[correct]){
-                int temp=nums[correct];
-                nums[correct]=nums[i];
-                nums[i]=temp;
-            }
-            else{
-                i++;
-            }
-        }
+
+        return slow;
     }
 }
