@@ -1,142 +1,123 @@
 name: Generate LeetCode README
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate-readme:
+  generate:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate structured README
-        shell: python
+      - name: Generate README
         run: |
+          cat > generate_readme.py <<'PYTHON'
           import os
           import re
           from collections import defaultdict
 
-          problems = defaultdict(list)
+          topics = defaultdict(list)
 
           for folder in os.listdir("."):
               if not os.path.isdir(folder):
                   continue
-
               if not re.match(r"^\d+-", folder):
                   continue
 
-              readme_path = os.path.join(folder, "README.md")
-
-              if not os.path.exists(readme_path):
+              path = os.path.join(folder, "README.md")
+              if not os.path.exists(path):
                   continue
 
-              with open(readme_path, "r", encoding="utf-8") as f:
-                  content = f.read()
+              with open(path, encoding="utf-8") as file:
+                  content = file.read()
 
-              title_match = re.search(
-                  r"<h2><a href=.*?>(.*?)</a></h2>",
-                  content,
-                  re.DOTALL
-              )
+              number = int(folder.split("-")[0])
+              title = folder.split("-", 1)[1].replace("-", " ").title()
 
-              if not title_match:
-                  title_match = re.search(r"#\s*\[(.*?)\]", content)
-
+              title_match = re.search(r"<h2>.*?>(.*?)</a></h2>", content, re.S)
               if title_match:
                   title = re.sub(r"^\d+\.\s*", "", title_match.group(1)).strip()
-              else:
-                  title = folder.split("-", 1)[1].replace("-", " ").title()
 
               difficulty_match = re.search(
                   r"<h3>(Easy|Medium|Hard)</h3>",
                   content,
-                  re.IGNORECASE
+                  re.I
               )
 
-              difficulty = (
-                  difficulty_match.group(1).title()
-                  if difficulty_match
-                  else "Unknown"
-              )
+              difficulty = "Unknown"
+              if difficulty_match:
+                  difficulty = difficulty_match.group(1).title()
 
-              topics_match = re.search(
+              topic_match = re.search(
                   r"<strong>Topics</strong>.*?<ul>(.*?)</ul>",
                   content,
-                  re.DOTALL | re.IGNORECASE
+                  re.S | re.I
               )
 
-              topics = []
+              found_topics = []
 
-              if topics_match:
-                  topics = re.findall(
+              if topic_match:
+                  found_topics = re.findall(
                       r"<li>(.*?)</li>",
-                      topics_match.group(1),
-                      re.DOTALL
+                      topic_match.group(1),
+                      re.S
                   )
 
-                  topics = [
-                      re.sub(r"<.*?>", "", topic).strip()
-                      for topic in topics
+                  found_topics = [
+                      re.sub(r"<.*?>", "", item).strip()
+                      for item in found_topics
                   ]
 
-              if not topics:
-                  topics = ["Other"]
+              if not found_topics:
+                  found_topics = ["Other"]
 
-              problem_number = int(folder.split("-")[0])
-
-              for topic in topics:
-                  problems[topic].append(
-                      (
-                          problem_number,
-                          title,
-                          difficulty,
-                          folder
-                      )
+              for topic in found_topics:
+                  topics[topic].append(
+                      (number, title, difficulty, folder)
                   )
 
-          lines = []
+          lines = [
+              "# LeetCode Solutions",
+              "",
+              "## LeetCode Topics",
+              ""
+          ]
 
-          lines.append("# LeetCode Solutions")
-          lines.append("")
-          lines.append(
-              "A collection of my LeetCode solutions organised by topic."
-          )
-          lines.append("")
-          lines.append("## LeetCode Topics")
-          lines.append("")
-
-          difficulty_icon = {
+          icons = {
               "Easy": "🟢",
               "Medium": "🟡",
               "Hard": "🔴",
               "Unknown": "⚪"
           }
 
-          for topic in sorted(problems):
-              lines.append(f"### {topic}")
+          for topic in sorted(topics):
+              lines.append("### " + topic)
               lines.append("")
               lines.append("| Problem | Difficulty |")
               lines.append("| --- | --- |")
 
-              for number, title, difficulty, folder in sorted(problems[topic]):
-                  icon = difficulty_icon.get(difficulty, "⚪")
+              for number, title, difficulty, folder in sorted(topics[topic]):
+                  icon = icons.get(difficulty, "⚪")
                   lines.append(
-                      f"| [{number}. {title}]({folder}) | "
-                      f"{icon} {difficulty} |"
+                      f"| [{number}. {title}]({folder}) | {icon} {difficulty} |"
                   )
 
               lines.append("")
 
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write("\n".join(lines))
+          with open("README.md", "w", encoding="utf-8") as file:
+              file.write("\n".join(lines))
+          PYTHON
+
+          python generate_readme.py
 
       - name: Commit README
         run: |
@@ -145,4 +126,3 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m "Auto update LeetCode README"
           git push
-i want like this
