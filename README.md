@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 267**
+**Total Problems: 268**
 
 ## LeetCode Topics
 
@@ -11,6 +11,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [1. Two Sum](0001-two-sum) | 🟢 Easy |
+| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [11. Container With Most Water](0011-container-with-most-water) | 🟡 Medium |
 | [14. Longest Common Prefix](0014-longest-common-prefix) | 🟢 Easy |
@@ -122,6 +123,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array) | 🟡 Medium |
 | [34. Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium |
@@ -324,6 +326,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [148. Sort List](0148-sort-list) | 🟡 Medium |
