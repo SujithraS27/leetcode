@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate README
@@ -23,70 +23,121 @@ jobs:
           cat > generate_readme.py <<'PYTHON'
           import os
           import re
+          import json
+          import urllib.request
           from collections import defaultdict
 
-          topics = defaultdict(list)
+          API_URL = "https://leetcode.com/graphql"
+
+          def get_metadata(slug):
+              query = """
+              query questionData($titleSlug: String!) {
+                question(titleSlug: $titleSlug) {
+                  questionFrontendId
+                  title
+                  difficulty
+                  topicTags {
+                    name
+                  }
+                }
+              }
+              """
+
+              payload = json.dumps({
+                  "query": query,
+                  "variables": {
+                      "titleSlug": slug
+                  }
+              }).encode("utf-8")
+
+              request = urllib.request.Request(
+                  API_URL,
+                  data=payload,
+                  headers={
+                      "Content-Type": "application/json",
+                      "User-Agent": "Mozilla/5.0",
+                      "Referer": "https://leetcode.com/"
+                  }
+              )
+
+              try:
+                  with urllib.request.urlopen(
+                      request,
+                      timeout=20
+                  ) as response:
+                      result = json.loads(
+                          response.read().decode("utf-8")
+                      )
+
+                  return result.get("data", {}).get("question")
+
+              except Exception as error:
+                  print(
+                      "Metadata failed for",
+                      slug,
+                      ":",
+                      error
+                  )
+                  return None
+
+
+          problems = defaultdict(list)
+          folders = []
 
           for folder in os.listdir("."):
-              if not os.path.isdir(folder):
-                  continue
-              if not re.match(r"^\d+-", folder):
-                  continue
+              if (
+                  os.path.isdir(folder)
+                  and re.match(r"^\d+-", folder)
+              ):
+                  folders.append(folder)
 
-              path = os.path.join(folder, "README.md")
-              if not os.path.exists(path):
-                  continue
+          folders.sort(
+              key=lambda value: int(value.split("-")[0])
+          )
 
-              with open(path, encoding="utf-8") as file:
-                  content = file.read()
+          for index, folder in enumerate(folders, start=1):
+              slug = folder.split("-", 1)[1]
 
-              number = int(folder.split("-")[0])
-              title = folder.split("-", 1)[1].replace("-", " ").title()
-
-              title_match = re.search(r"<h2>.*?>(.*?)</a></h2>", content, re.S)
-              if title_match:
-                  title = re.sub(r"^\d+\.\s*", "", title_match.group(1)).strip()
-
-              difficulty_match = re.search(
-                  r"<h3>(Easy|Medium|Hard)</h3>",
-                  content,
-                  re.I
+              print(
+                  f"[{index}/{len(folders)}] Fetching {slug}"
               )
 
-              difficulty = "Unknown"
-              if difficulty_match:
-                  difficulty = difficulty_match.group(1).title()
+              metadata = get_metadata(slug)
 
-              topic_match = re.search(
-                  r"<strong>Topics</strong>.*?<ul>(.*?)</ul>",
-                  content,
-                  re.S | re.I
-              )
+              if metadata:
+                  title = metadata["title"]
+                  difficulty = metadata["difficulty"]
 
-              found_topics = []
-
-              if topic_match:
-                  found_topics = re.findall(
-                      r"<li>(.*?)</li>",
-                      topic_match.group(1),
-                      re.S
-                  )
-
-                  found_topics = [
-                      re.sub(r"<.*?>", "", item).strip()
-                      for item in found_topics
+                  topics = [
+                      tag["name"]
+                      for tag in metadata["topicTags"]
                   ]
 
-              if not found_topics:
-                  found_topics = ["Other"]
+                  if not topics:
+                      topics = ["Other"]
 
-              for topic in found_topics:
-                  topics[topic].append(
-                      (number, title, difficulty, folder)
-                  )
+              else:
+                  title = slug.replace("-", " ").title()
+                  difficulty = "Unknown"
+                  topics = ["Other"]
+
+              number = int(folder.split("-")[0])
+
+              for topic in topics:
+                  problems[topic].append({
+                      "number": number,
+                      "title": title,
+                      "difficulty": difficulty,
+                      "folder": folder
+                  })
+
 
           lines = [
-              "# LeetCode Solutions",
+              "# LeetCode Solutions 🚀",
+              "",
+              "Solutions to LeetCode problems organised by topic.",
+              "",
+              f"**Total Problems: {len(folders)}**",
               "",
               "## LeetCode Topics",
               ""
@@ -99,22 +150,39 @@ jobs:
               "Unknown": "⚪"
           }
 
-          for topic in sorted(topics):
-              lines.append("### " + topic)
+          for topic in sorted(problems):
+              lines.append(f"### {topic}")
               lines.append("")
               lines.append("| Problem | Difficulty |")
               lines.append("| --- | --- |")
 
-              for number, title, difficulty, folder in sorted(topics[topic]):
+              for problem in sorted(
+                  problems[topic],
+                  key=lambda value: value["number"]
+              ):
+                  number = problem["number"]
+                  title = problem["title"]
+                  difficulty = problem["difficulty"]
+                  folder = problem["folder"]
+
                   icon = icons.get(difficulty, "⚪")
+
                   lines.append(
-                      f"| [{number}. {title}]({folder}) | {icon} {difficulty} |"
+                      f"| [{number}. {title}]({folder}) "
+                      f"| {icon} {difficulty} |"
                   )
 
               lines.append("")
 
-          with open("README.md", "w", encoding="utf-8") as file:
+
+          with open(
+              "README.md",
+              "w",
+              encoding="utf-8"
+          ) as file:
               file.write("\n".join(lines))
+
+          print("README generated successfully")
           PYTHON
 
           python generate_readme.py
