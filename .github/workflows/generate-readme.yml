@@ -1,0 +1,148 @@
+name: Generate LeetCode README
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate structured README
+        shell: python
+        run: |
+          import os
+          import re
+          from collections import defaultdict
+
+          problems = defaultdict(list)
+
+          for folder in os.listdir("."):
+              if not os.path.isdir(folder):
+                  continue
+
+              if not re.match(r"^\d+-", folder):
+                  continue
+
+              readme_path = os.path.join(folder, "README.md")
+
+              if not os.path.exists(readme_path):
+                  continue
+
+              with open(readme_path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              title_match = re.search(
+                  r"<h2><a href=.*?>(.*?)</a></h2>",
+                  content,
+                  re.DOTALL
+              )
+
+              if not title_match:
+                  title_match = re.search(r"#\s*\[(.*?)\]", content)
+
+              if title_match:
+                  title = re.sub(r"^\d+\.\s*", "", title_match.group(1)).strip()
+              else:
+                  title = folder.split("-", 1)[1].replace("-", " ").title()
+
+              difficulty_match = re.search(
+                  r"<h3>(Easy|Medium|Hard)</h3>",
+                  content,
+                  re.IGNORECASE
+              )
+
+              difficulty = (
+                  difficulty_match.group(1).title()
+                  if difficulty_match
+                  else "Unknown"
+              )
+
+              topics_match = re.search(
+                  r"<strong>Topics</strong>.*?<ul>(.*?)</ul>",
+                  content,
+                  re.DOTALL | re.IGNORECASE
+              )
+
+              topics = []
+
+              if topics_match:
+                  topics = re.findall(
+                      r"<li>(.*?)</li>",
+                      topics_match.group(1),
+                      re.DOTALL
+                  )
+
+                  topics = [
+                      re.sub(r"<.*?>", "", topic).strip()
+                      for topic in topics
+                  ]
+
+              if not topics:
+                  topics = ["Other"]
+
+              problem_number = int(folder.split("-")[0])
+
+              for topic in topics:
+                  problems[topic].append(
+                      (
+                          problem_number,
+                          title,
+                          difficulty,
+                          folder
+                      )
+                  )
+
+          lines = []
+
+          lines.append("# LeetCode Solutions")
+          lines.append("")
+          lines.append(
+              "A collection of my LeetCode solutions organised by topic."
+          )
+          lines.append("")
+          lines.append("## LeetCode Topics")
+          lines.append("")
+
+          difficulty_icon = {
+              "Easy": "🟢",
+              "Medium": "🟡",
+              "Hard": "🔴",
+              "Unknown": "⚪"
+          }
+
+          for topic in sorted(problems):
+              lines.append(f"### {topic}")
+              lines.append("")
+              lines.append("| Problem | Difficulty |")
+              lines.append("| --- | --- |")
+
+              for number, title, difficulty, folder in sorted(problems[topic]):
+                  icon = difficulty_icon.get(difficulty, "⚪")
+                  lines.append(
+                      f"| [{number}. {title}]({folder}) | "
+                      f"{icon} {difficulty} |"
+                  )
+
+              lines.append("")
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+
+      - name: Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Auto update LeetCode README"
+          git push
+i want like this
