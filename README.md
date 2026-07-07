@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 268**
+**Total Problems: 269**
 
 ## LeetCode Topics
 
@@ -25,6 +25,7 @@ Solutions to LeetCode problems organised by topic.
 | [41. First Missing Positive](0041-first-missing-positive) | 🔴 Hard |
 | [42. Trapping Rain Water](0042-trapping-rain-water) | 🔴 Hard |
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
+| [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
@@ -457,6 +458,7 @@ Solutions to LeetCode problems organised by topic.
 | [9. Palindrome Number](0009-palindrome-number) | 🟢 Easy |
 | [12. Integer to Roman](0012-integer-to-roman) | 🟡 Medium |
 | [13. Roman to Integer](0013-roman-to-integer) | 🟢 Easy |
+| [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [69. Sqrt(x)](0069-sqrtx) | 🟢 Easy |
 | [150. Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation) | 🟡 Medium |
 | [189. Rotate Array](0189-rotate-array) | 🟡 Medium |
@@ -491,6 +493,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [1791. Richest Customer Wealth](1791-richest-customer-wealth) | 🟢 Easy |
 
