@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 270**
+**Total Problems: 271**
 
 ## LeetCode Topics
 
@@ -490,6 +490,7 @@ Solutions to LeetCode problems organised by topic.
 | [3321. Type of Triangle](3321-type-of-triangle) | 🟢 Easy |
 | [3336. Water Bottles II](3336-water-bottles-ii) | 🟡 Medium |
 | [3515. Find if Digit Game Can Be Won](3515-find-if-digit-game-can-be-won) | 🟢 Easy |
+| [4135. Concatenate Non-Zero Digits and Multiply by Sum I](4135-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy |
 
 ### Matrix
 
