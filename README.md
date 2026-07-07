@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 269**
+**Total Problems: 270**
 
 ## LeetCode Topics
 
@@ -29,6 +29,7 @@ Solutions to LeetCode problems organised by topic.
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
+| [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
 | [80. Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii) | 🟡 Medium |
 | [81. Search in Rotated Sorted Array II](0081-search-in-rotated-sorted-array-ii) | 🟡 Medium |
@@ -390,6 +391,7 @@ Solutions to LeetCode problems organised by topic.
 | [13. Roman to Integer](0013-roman-to-integer) | 🟢 Easy |
 | [17. Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 Medium |
 | [41. First Missing Positive](0041-first-missing-positive) | 🔴 Hard |
+| [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [128. Longest Consecutive Sequence](0128-longest-consecutive-sequence) | 🟡 Medium |
 | [141. Linked List Cycle](0141-linked-list-cycle) | 🟢 Easy |
 | [142. Linked List Cycle II](0142-linked-list-cycle-ii) | 🟡 Medium |
@@ -495,6 +497,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [1791. Richest Customer Wealth](1791-richest-customer-wealth) | 🟢 Easy |
 
 ### Memoization
