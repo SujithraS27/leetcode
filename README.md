@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 271**
+**Total Problems: 272**
 
 ## LeetCode Topics
 
@@ -49,6 +49,7 @@ Solutions to LeetCode problems organised by topic.
 | [179. Largest Number](0179-largest-number) | 🟡 Medium |
 | [189. Rotate Array](0189-rotate-array) | 🟡 Medium |
 | [209. Minimum Size Subarray Sum](0209-minimum-size-subarray-sum) | 🟡 Medium |
+| [217. Contains Duplicate](217-contains-duplicate) | 🟢 Easy |
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
 | [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
@@ -398,6 +399,7 @@ Solutions to LeetCode problems organised by topic.
 | [160. Intersection of Two Linked Lists](0160-intersection-of-two-linked-lists) | 🟢 Easy |
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
 | [205. Isomorphic Strings](0205-isomorphic-strings) | 🟢 Easy |
+| [217. Contains Duplicate](217-contains-duplicate) | 🟢 Easy |
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
 | [242. Valid Anagram](0242-valid-anagram) | 🟢 Easy |
@@ -642,6 +644,7 @@ Solutions to LeetCode problems organised by topic.
 | [148. Sort List](0148-sort-list) | 🟡 Medium |
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
 | [179. Largest Number](0179-largest-number) | 🟡 Medium |
+| [217. Contains Duplicate](217-contains-duplicate) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
 | [242. Valid Anagram](0242-valid-anagram) | 🟢 Easy |
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
