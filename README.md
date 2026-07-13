@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 273**
+**Total Problems: 274**
 
 ## LeetCode Topics
 
@@ -42,6 +42,7 @@ Solutions to LeetCode problems organised by topic.
 | [135. Candy](0135-candy) | 🔴 Hard |
 | [136. Single Number](0136-single-number) | 🟢 Easy |
 | [150. Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation) | 🟡 Medium |
+| [152. Maximum Product Subarray](152-maximum-product-subarray) | 🟡 Medium |
 | [152. Maximum Product Subarray](0152-maximum-product-subarray) | 🟡 Medium |
 | [153. Find Minimum in Rotated Sorted Array](0153-find-minimum-in-rotated-sorted-array) | 🟡 Medium |
 | [162. Find Peak Element](0162-find-peak-element) | 🟡 Medium |
@@ -352,6 +353,7 @@ Solutions to LeetCode problems organised by topic.
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [121. Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 Easy |
 | [122. Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii) | 🟡 Medium |
+| [152. Maximum Product Subarray](152-maximum-product-subarray) | 🟡 Medium |
 | [152. Maximum Product Subarray](0152-maximum-product-subarray) | 🟡 Medium |
 | [338. Counting Bits](0338-counting-bits) | 🟢 Easy |
 | [392. Is Subsequence](0392-is-subsequence) | 🟢 Easy |
