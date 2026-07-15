@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 277**
+**Total Problems: 278**
 
 ## LeetCode Topics
 
@@ -54,6 +54,7 @@ Solutions to LeetCode problems organised by topic.
 | [209. Minimum Size Subarray Sum](0209-minimum-size-subarray-sum) | 🟡 Medium |
 | [217. Contains Duplicate](217-contains-duplicate) | 🟢 Easy |
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
+| [228. Summary Ranges](228-summary-ranges) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
 | [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
