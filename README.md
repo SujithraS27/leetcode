@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 274**
+**Total Problems: 275**
 
 ## LeetCode Topics
 
@@ -495,6 +495,7 @@ Solutions to LeetCode problems organised by topic.
 | [3321. Type of Triangle](3321-type-of-triangle) | 🟢 Easy |
 | [3336. Water Bottles II](3336-water-bottles-ii) | 🟡 Medium |
 | [3515. Find if Digit Game Can Be Won](3515-find-if-digit-game-can-be-won) | 🟢 Easy |
+| [3995. GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) | 🟢 Easy |
 | [4135. Concatenate Non-Zero Digits and Multiply by Sum I](4135-concatenate-non-zero-digits-and-multiply-by-sum-i) | 🟢 Easy |
 
 ### Matrix
@@ -545,6 +546,7 @@ Solutions to LeetCode problems organised by topic.
 | [258. Add Digits](0258-add-digits) | 🟢 Easy |
 | [2423. Minimum Deletions to Make Array Divisible](2423-minimum-deletions-to-make-array-divisible) | 🔴 Hard |
 | [2507. Number of Common Factors](2507-number-of-common-factors) | 🟢 Easy |
+| [3995. GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) | 🟢 Easy |
 
 ### Other
 
