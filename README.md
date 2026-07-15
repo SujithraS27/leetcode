@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 276**
+**Total Problems: 277**
 
 ## LeetCode Topics
 
@@ -11,8 +11,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [1. Two Sum](0001-two-sum) | 🟢 Easy |
-| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [11. Container With Most Water](0011-container-with-most-water) | 🟡 Medium |
 | [14. Longest Common Prefix](0014-longest-common-prefix) | 🟢 Easy |
 | [15. 3Sum](0015-3sum) | 🟡 Medium |
@@ -30,6 +30,7 @@ Solutions to LeetCode problems organised by topic.
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
+| [66. Plus One](66-plus-one) | 🟢 Easy |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
 | [80. Remove Duplicates from Sorted Array II](0080-remove-duplicates-from-sorted-array-ii) | 🟡 Medium |
@@ -72,8 +73,8 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
@@ -129,8 +130,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array) | 🟡 Medium |
 | [34. Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium |
 | [35. Search Insert Position](0035-search-insert-position) | 🟢 Easy |
@@ -273,6 +274,7 @@ Solutions to LeetCode problems organised by topic.
 | [1462. List the Products Ordered in a Period](1462-list-the-products-ordered-in-a-period) | 🟢 Easy |
 | [1480. Movie Rating](1480-movie-rating) | 🟡 Medium |
 | [1509. Replace Employee ID With The Unique Identifier](1509-replace-employee-id-with-the-unique-identifier) | 🟢 Easy |
+| [1523. Capital Gain/Loss](1523-capital-gainloss) | 🟡 Medium |
 | [1541. Top Travellers](1541-top-travellers) | 🟢 Easy |
 | [1625. Group Sold Products By The Date](1625-group-sold-products-by-the-date) | 🟢 Easy |
 | [1664. Find Users With Valid E-Mails](1664-find-users-with-valid-e-mails) | 🟢 Easy |
@@ -331,8 +333,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [148. Sort List](0148-sort-list) | 🟡 Medium |
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
@@ -466,6 +468,7 @@ Solutions to LeetCode problems organised by topic.
 | [12. Integer to Roman](0012-integer-to-roman) | 🟡 Medium |
 | [13. Roman to Integer](0013-roman-to-integer) | 🟢 Easy |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
+| [66. Plus One](66-plus-one) | 🟢 Easy |
 | [69. Sqrt(x)](0069-sqrtx) | 🟢 Easy |
 | [150. Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation) | 🟡 Medium |
 | [189. Rotate Array](0189-rotate-array) | 🟡 Medium |
@@ -556,7 +559,6 @@ Solutions to LeetCode problems organised by topic.
 | [167. Two Sum Ii   Input Array Is Sorted](0167-two-sum-ii---input-array-is-sorted) | ⚪ Unknown |
 | [303. Range Sum Query   Immutable](0303-range-sum-query---immutable) | ⚪ Unknown |
 | [304. Range Sum Query 2D   Immutable](0304-range-sum-query-2d---immutable) | ⚪ Unknown |
-| [1523. Capital Gainloss](1523-capital-gainloss) | ⚪ Unknown |
 | [3816. Dna Pattern Recognition ](3816-dna-pattern-recognition-) | ⚪ Unknown |
 | [3848. Analyze Subscription Conversion ](3848-analyze-subscription-conversion-) | ⚪ Unknown |
 | [3971. Find Stores with Inventory Imbalance](3971-find-stores-with-inventory-imbalance) | 🟡 Medium |
@@ -634,8 +636,8 @@ Solutions to LeetCode problems organised by topic.
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement) | 🟡 Medium |
-| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
