@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 281**
+**Total Problems: 282**
 
 ## LeetCode Topics
 
@@ -92,6 +92,7 @@ Solutions to LeetCode problems organised by topic.
 | [954. Maximum Sum Circular Subarray](0954-maximum-sum-circular-subarray) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1019. Squares of a Sorted Array](1019-squares-of-a-sorted-array) | 🟢 Easy |
+| [1028. Interval List Intersections](1028-interval-list-intersections) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
 | [1056. Capacity To Ship Packages Within D Days](1056-capacity-to-ship-packages-within-d-days) | 🟡 Medium |
 | [1185. Find in Mountain Array](1185-find-in-mountain-array) | 🔴 Hard |
@@ -750,6 +751,12 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy |
 
+### Sweep Line
+
+| Problem | Difficulty |
+| --- | --- |
+| [1028. Interval List Intersections](1028-interval-list-intersections) | 🟡 Medium |
+
 ### Tree
 
 | Problem | Difficulty |
@@ -800,6 +807,7 @@ Solutions to LeetCode problems organised by topic.
 | [392. Is Subsequence](0392-is-subsequence) | 🟢 Easy |
 | [908. Middle of the Linked List](0908-middle-of-the-linked-list) | 🟢 Easy |
 | [1019. Squares of a Sorted Array](1019-squares-of-a-sorted-array) | 🟢 Easy |
+| [1028. Interval List Intersections](1028-interval-list-intersections) | 🟡 Medium |
 | [1894. Merge Strings Alternately](1894-merge-strings-alternately) | 🟢 Easy |
 | [2216. Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) | 🟡 Medium |
 | [2231. Find First Palindromic String in the Array](2231-find-first-palindromic-string-in-the-array) | 🟢 Easy |
