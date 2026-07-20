@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 280**
+**Total Problems: 281**
 
 ## LeetCode Topics
 
@@ -68,6 +68,7 @@ Solutions to LeetCode problems organised by topic.
 | [334. Increasing Triplet Subsequence](0334-increasing-triplet-subsequence) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
+| [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
 | [448. Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy |
 | [485. Max Consecutive Ones](0485-max-consecutive-ones) | 🟢 Easy |
@@ -363,6 +364,7 @@ Solutions to LeetCode problems organised by topic.
 | [338. Counting Bits](0338-counting-bits) | 🟢 Easy |
 | [392. Is Subsequence](0392-is-subsequence) | 🟢 Easy |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
+| [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [943. Sum of Subarray Minimums](0943-sum-of-subarray-minimums) | 🟡 Medium |
 | [954. Maximum Sum Circular Subarray](0954-maximum-sum-circular-subarray) | 🟡 Medium |
 | [1013. Fibonacci Number](1013-fibonacci-number) | 🟢 Easy |
@@ -388,6 +390,7 @@ Solutions to LeetCode problems organised by topic.
 | [334. Increasing Triplet Subsequence](0334-increasing-triplet-subsequence) | 🟡 Medium |
 | [402. Remove K Digits](0402-remove-k-digits) | 🟡 Medium |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
+| [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [2032. Largest Odd Number in String](2032-largest-odd-number-in-string) | 🟢 Easy |
 
 ### Hash Table
@@ -665,6 +668,7 @@ Solutions to LeetCode problems organised by topic.
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
 | [274. H-Index](0274-h-index) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
+| [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [1019. Squares of a Sorted Array](1019-squares-of-a-sorted-array) | 🟢 Easy |
