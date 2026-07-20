@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 278**
+**Total Problems: 279**
 
 ## LeetCode Topics
 
@@ -11,8 +11,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [1. Two Sum](0001-two-sum) | 🟢 Easy |
-| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [11. Container With Most Water](0011-container-with-most-water) | 🟡 Medium |
 | [14. Longest Common Prefix](0014-longest-common-prefix) | 🟢 Easy |
 | [15. 3Sum](0015-3sum) | 🟡 Medium |
@@ -30,6 +30,7 @@ Solutions to LeetCode problems organised by topic.
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
+| [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
 | [66. Plus One](66-plus-one) | 🟢 Easy |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
@@ -74,8 +75,8 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
@@ -131,8 +132,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array) | 🟡 Medium |
 | [34. Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium |
 | [35. Search Insert Position](0035-search-insert-position) | 🟢 Easy |
@@ -334,8 +335,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [148. Sort List](0148-sort-list) | 🟡 Medium |
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
@@ -637,8 +638,8 @@ Solutions to LeetCode problems organised by topic.
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement) | 🟡 Medium |
-| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
@@ -651,6 +652,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [15. 3Sum](0015-3sum) | 🟡 Medium |
+| [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
 | [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
 | [88. Merge Sorted Array](0088-merge-sorted-array) | 🟢 Easy |
 | [148. Sort List](0148-sort-list) | 🟡 Medium |
