@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 279**
+**Total Problems: 280**
 
 ## LeetCode Topics
 
@@ -31,6 +31,7 @@ Solutions to LeetCode problems organised by topic.
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
+| [57. Insert Interval](57-insert-interval) | 🟡 Medium |
 | [66. Plus One](66-plus-one) | 🟢 Easy |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
