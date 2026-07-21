@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 282**
+**Total Problems: 283**
 
 ## LeetCode Topics
 
@@ -168,6 +168,7 @@ Solutions to LeetCode problems organised by topic.
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [110. Balanced Binary Tree](0110-balanced-binary-tree) | 🟢 Easy |
+| [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
 | [129. Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers) | 🟡 Medium |
 | [144. Binary Tree Preorder Traversal](0144-binary-tree-preorder-traversal) | 🟢 Easy |
 | [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 Easy |
@@ -319,6 +320,7 @@ Solutions to LeetCode problems organised by topic.
 | [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal) | 🟢 Easy |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [110. Balanced Binary Tree](0110-balanced-binary-tree) | 🟢 Easy |
+| [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
 | [129. Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers) | 🟡 Medium |
 | [144. Binary Tree Preorder Traversal](0144-binary-tree-preorder-traversal) | 🟢 Easy |
 | [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 Easy |
@@ -360,6 +362,7 @@ Solutions to LeetCode problems organised by topic.
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [121. Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 Easy |
 | [122. Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii) | 🟡 Medium |
+| [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
 | [152. Maximum Product Subarray](152-maximum-product-subarray) | 🟡 Medium |
 | [152. Maximum Product Subarray](0152-maximum-product-subarray) | 🟡 Medium |
 | [338. Counting Bits](0338-counting-bits) | 🟢 Easy |
@@ -765,6 +768,7 @@ Solutions to LeetCode problems organised by topic.
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [110. Balanced Binary Tree](0110-balanced-binary-tree) | 🟢 Easy |
+| [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
 | [129. Sum Root to Leaf Numbers](0129-sum-root-to-leaf-numbers) | 🟡 Medium |
 | [144. Binary Tree Preorder Traversal](0144-binary-tree-preorder-traversal) | 🟢 Easy |
 | [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 Easy |
