@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 287**
+**Total Problems: 288**
 
 ## LeetCode Topics
 
@@ -169,6 +169,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal) | 🟢 Easy |
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
+| [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [110. Balanced Binary Tree](0110-balanced-binary-tree) | 🟢 Easy |
 | [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
@@ -199,6 +200,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
+| [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [199. Binary Tree Right Side View](0199-binary-tree-right-side-view) | 🟡 Medium |
 
@@ -778,6 +780,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal) | 🟢 Easy |
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
+| [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [110. Balanced Binary Tree](0110-balanced-binary-tree) | 🟢 Easy |
 | [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
