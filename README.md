@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 284**
+**Total Problems: 285**
 
 ## LeetCode Topics
 
@@ -27,8 +27,8 @@ Solutions to LeetCode problems organised by topic.
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
-| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
 | [57. Insert Interval](57-insert-interval) | 🟡 Medium |
@@ -78,8 +78,8 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
@@ -87,6 +87,7 @@ Solutions to LeetCode problems organised by topic.
 | [745. Find Smallest Letter Greater Than Target](0745-find-smallest-letter-greater-than-target) | 🟢 Easy |
 | [792. Binary Search](0792-binary-search) | 🟢 Easy |
 | [882. Peak Index in a Mountain Array](0882-peak-index-in-a-mountain-array) | 🟡 Medium |
+| [890. Lemonade Change](890-lemonade-change) | 🟢 Easy |
 | [907. Koko Eating Bananas](0907-koko-eating-bananas) | 🟡 Medium |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [943. Sum of Subarray Minimums](0943-sum-of-subarray-minimums) | 🟡 Medium |
@@ -397,6 +398,7 @@ Solutions to LeetCode problems organised by topic.
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
 | [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
+| [890. Lemonade Change](890-lemonade-change) | 🟢 Easy |
 | [2032. Largest Odd Number in String](2032-largest-odd-number-in-string) | 🟢 Easy |
 
 ### Hash Table
@@ -518,8 +520,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
-| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [1791. Richest Customer Wealth](1791-richest-customer-wealth) | 🟢 Easy |
 
@@ -627,8 +629,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [258. Add Digits](0258-add-digits) | 🟢 Easy |
 | [412. Fizz Buzz](0412-fizz-buzz) | 🟢 Easy |
 | [657. Robot Return to Origin](0657-robot-return-to-origin) | 🟢 Easy |
@@ -648,8 +650,8 @@ Solutions to LeetCode problems organised by topic.
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement) | 🟡 Medium |
-| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
