@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 283**
+**Total Problems: 284**
 
 ## LeetCode Topics
 
@@ -71,6 +71,7 @@ Solutions to LeetCode problems organised by topic.
 | [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
 | [448. Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy |
+| [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
 | [485. Max Consecutive Ones](0485-max-consecutive-ones) | 🟢 Easy |
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
 | [503. Next Greater Element II](0503-next-greater-element-ii) | 🟡 Medium |
@@ -395,6 +396,7 @@ Solutions to LeetCode problems organised by topic.
 | [402. Remove K Digits](0402-remove-k-digits) | 🟡 Medium |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
 | [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
+| [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
 | [2032. Largest Odd Number in String](2032-largest-odd-number-in-string) | 🟢 Easy |
 
 ### Hash Table
@@ -674,6 +676,7 @@ Solutions to LeetCode problems organised by topic.
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
+| [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [1019. Squares of a Sorted Array](1019-squares-of-a-sorted-array) | 🟢 Easy |
 | [2423. Minimum Deletions to Make Array Divisible](2423-minimum-deletions-to-make-array-divisible) | 🔴 Hard |
@@ -809,6 +812,7 @@ Solutions to LeetCode problems organised by topic.
 | [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
 | [344. Reverse String](0344-reverse-string) | 🟢 Easy |
 | [392. Is Subsequence](0392-is-subsequence) | 🟢 Easy |
+| [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
 | [908. Middle of the Linked List](0908-middle-of-the-linked-list) | 🟢 Easy |
 | [1019. Squares of a Sorted Array](1019-squares-of-a-sorted-array) | 🟢 Easy |
 | [1028. Interval List Intersections](1028-interval-list-intersections) | 🟡 Medium |
