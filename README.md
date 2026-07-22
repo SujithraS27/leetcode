@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 286**
+**Total Problems: 287**
 
 ## LeetCode Topics
 
@@ -29,6 +29,7 @@ Solutions to LeetCode problems organised by topic.
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [55. Jump Game](55-jump-game) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
 | [57. Insert Interval](57-insert-interval) | 🟡 Medium |
@@ -361,6 +362,7 @@ Solutions to LeetCode problems organised by topic.
 | [42. Trapping Rain Water](0042-trapping-rain-water) | 🔴 Hard |
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
+| [55. Jump Game](55-jump-game) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [121. Best Time to Buy and Sell Stock](0121-best-time-to-buy-and-sell-stock) | 🟢 Easy |
 | [122. Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii) | 🟡 Medium |
@@ -389,6 +391,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [11. Container With Most Water](0011-container-with-most-water) | 🟡 Medium |
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
+| [55. Jump Game](55-jump-game) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [122. Best Time to Buy and Sell Stock II](0122-best-time-to-buy-and-sell-stock-ii) | 🟡 Medium |
 | [134. Gas Station](0134-gas-station) | 🟡 Medium |
