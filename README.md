@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 289**
+**Total Problems: 290**
 
 ## LeetCode Topics
 
@@ -111,6 +111,7 @@ Solutions to LeetCode problems organised by topic.
 | [1605. Minimum Number of Days to Make m Bouquets](1605-minimum-number-of-days-to-make-m-bouquets) | 🟡 Medium |
 | [1646. Kth Missing Positive Number](1646-kth-missing-positive-number) | 🟢 Easy |
 | [1791. Richest Customer Wealth](1791-richest-customer-wealth) | 🟢 Easy |
+| [1849. Maximum Absolute Sum of Any Subarray](1849-maximum-absolute-sum-of-any-subarray) | 🟡 Medium |
 | [1878. Check if Array Is Sorted and Rotated](1878-check-if-array-is-sorted-and-rotated) | 🟢 Easy |
 | [1950. Sign of the Product of an Array](1950-sign-of-the-product-of-an-array) | 🟢 Easy |
 | [2005. Check if All the Integers in a Range Are Covered](2005-check-if-all-the-integers-in-a-range-are-covered) | 🟢 Easy |
@@ -382,6 +383,7 @@ Solutions to LeetCode problems organised by topic.
 | [1013. Fibonacci Number](1013-fibonacci-number) | 🟢 Easy |
 | [1288. Maximum Subarray Sum with One Deletion](1288-maximum-subarray-sum-with-one-deletion) | 🟡 Medium |
 | [1756. Minimum Deletions to Make String Balanced](1756-minimum-deletions-to-make-string-balanced) | 🟡 Medium |
+| [1849. Maximum Absolute Sum of Any Subarray](1849-maximum-absolute-sum-of-any-subarray) | 🟡 Medium |
 
 ### Enumeration
 
