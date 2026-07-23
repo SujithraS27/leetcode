@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 288**
+**Total Problems: 289**
 
 ## LeetCode Topics
 
@@ -100,6 +100,7 @@ Solutions to LeetCode problems organised by topic.
 | [1056. Capacity To Ship Packages Within D Days](1056-capacity-to-ship-packages-within-d-days) | 🟡 Medium |
 | [1185. Find in Mountain Array](1185-find-in-mountain-array) | 🔴 Hard |
 | [1206. Corporate Flight Bookings](1206-corporate-flight-bookings) | 🟡 Medium |
+| [1288. Maximum Subarray Sum with One Deletion](1288-maximum-subarray-sum-with-one-deletion) | 🟡 Medium |
 | [1293. Three Consecutive Odds](1293-three-consecutive-odds) | 🟢 Easy |
 | [1370. Count Number of Nice Subarrays](1370-count-number-of-nice-subarrays) | 🟡 Medium |
 | [1408. Find the Smallest Divisor Given a Threshold](1408-find-the-smallest-divisor-given-a-threshold) | 🟡 Medium |
@@ -379,6 +380,7 @@ Solutions to LeetCode problems organised by topic.
 | [943. Sum of Subarray Minimums](0943-sum-of-subarray-minimums) | 🟡 Medium |
 | [954. Maximum Sum Circular Subarray](0954-maximum-sum-circular-subarray) | 🟡 Medium |
 | [1013. Fibonacci Number](1013-fibonacci-number) | 🟢 Easy |
+| [1288. Maximum Subarray Sum with One Deletion](1288-maximum-subarray-sum-with-one-deletion) | 🟡 Medium |
 | [1756. Minimum Deletions to Make String Balanced](1756-minimum-deletions-to-make-string-balanced) | 🟡 Medium |
 
 ### Enumeration
