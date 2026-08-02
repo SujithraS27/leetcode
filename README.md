@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 291**
+**Total Problems: 292**
 
 ## LeetCode Topics
 
@@ -60,6 +60,7 @@ Solutions to LeetCode problems organised by topic.
 | [228. Summary Ranges](228-summary-ranges) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
 | [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
+| [238. Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [260. Single Number III](0260-single-number-iii) | 🟡 Medium |
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
@@ -598,6 +599,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [209. Minimum Size Subarray Sum](0209-minimum-size-subarray-sum) | 🟡 Medium |
 | [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
+| [238. Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium |
 | [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
