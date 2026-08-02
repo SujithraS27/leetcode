@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 293**
+**Total Problems: 294**
 
 ## LeetCode Topics
 
@@ -87,6 +87,7 @@ Solutions to LeetCode problems organised by topic.
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
+| [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [735. Asteroid Collision](0735-asteroid-collision) | 🟡 Medium |
 | [745. Find Smallest Letter Greater Than Target](0745-find-smallest-letter-greater-than-target) | 🟢 Easy |
 | [792. Binary Search](0792-binary-search) | 🟢 Easy |
@@ -609,6 +610,7 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
+| [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
 | [1206. Corporate Flight Bookings](1206-corporate-flight-bookings) | 🟡 Medium |
