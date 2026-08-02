@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 292**
+**Total Problems: 293**
 
 ## LeetCode Topics
 
@@ -79,6 +79,7 @@ Solutions to LeetCode problems organised by topic.
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
 | [503. Next Greater Element II](0503-next-greater-element-ii) | 🟡 Medium |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
@@ -444,6 +445,7 @@ Solutions to LeetCode problems organised by topic.
 | [448. Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy |
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
@@ -506,6 +508,7 @@ Solutions to LeetCode problems organised by topic.
 | [371. Sum of Two Integers](0371-sum-of-two-integers) | 🟡 Medium |
 | [412. Fizz Buzz](0412-fizz-buzz) | 🟢 Easy |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [1013. Fibonacci Number](1013-fibonacci-number) | 🟢 Easy |
 | [1370. Count Number of Nice Subarrays](1370-count-number-of-nice-subarrays) | 🟡 Medium |
 | [1406. Subtract the Product and Sum of Digits of an Integer](1406-subtract-the-product-and-sum-of-digits-of-an-integer) | 🟢 Easy |
@@ -603,6 +606,7 @@ Solutions to LeetCode problems organised by topic.
 | [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
