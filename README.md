@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 290**
+**Total Problems: 291**
 
 ## LeetCode Topics
 
@@ -27,8 +27,8 @@ Solutions to LeetCode problems organised by topic.
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
-| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](55-jump-game) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
@@ -66,6 +66,7 @@ Solutions to LeetCode problems organised by topic.
 | [274. H-Index](0274-h-index) | 🟡 Medium |
 | [283. Move Zeroes](0283-move-zeroes) | 🟢 Easy |
 | [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
+| [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [334. Increasing Triplet Subsequence](0334-increasing-triplet-subsequence) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
@@ -79,8 +80,8 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
@@ -341,6 +342,7 @@ Solutions to LeetCode problems organised by topic.
 | [155. Min Stack](0155-min-stack) | 🟡 Medium |
 | [225. Implement Stack using Queues](0225-implement-stack-using-queues) | 🟢 Easy |
 | [232. Implement Queue using Stacks](0232-implement-queue-using-stacks) | 🟢 Easy |
+| [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [937. Online Stock Span](0937-online-stock-span) | 🟡 Medium |
 
 ### Divide and Conquer
@@ -531,8 +533,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
-| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [1791. Richest Customer Wealth](1791-richest-customer-wealth) | 🟢 Easy |
 
@@ -596,6 +598,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [209. Minimum Size Subarray Sum](0209-minimum-size-subarray-sum) | 🟡 Medium |
 | [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
+| [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
@@ -640,8 +643,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [258. Add Digits](0258-add-digits) | 🟢 Easy |
 | [412. Fizz Buzz](0412-fizz-buzz) | 🟢 Easy |
 | [657. Robot Return to Origin](0657-robot-return-to-origin) | 🟢 Easy |
@@ -661,8 +664,8 @@ Solutions to LeetCode problems organised by topic.
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement) | 🟡 Medium |
-| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
