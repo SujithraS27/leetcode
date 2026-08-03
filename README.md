@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 295**
+**Total Problems: 296**
 
 ## LeetCode Topics
 
@@ -174,6 +174,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal) | 🟢 Easy |
+| [101. Symmetric Tree](101-symmetric-tree) | 🟢 Easy |
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
 | [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
@@ -206,6 +207,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [101. Symmetric Tree](101-symmetric-tree) | 🟢 Easy |
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
 | [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
@@ -331,6 +333,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal) | 🟢 Easy |
+| [101. Symmetric Tree](101-symmetric-tree) | 🟢 Easy |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [110. Balanced Binary Tree](0110-balanced-binary-tree) | 🟢 Easy |
 | [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
@@ -799,6 +802,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [94. Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal) | 🟢 Easy |
+| [101. Symmetric Tree](101-symmetric-tree) | 🟢 Easy |
 | [102. Binary Tree Level Order Traversal](0102-binary-tree-level-order-traversal) | 🟡 Medium |
 | [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
