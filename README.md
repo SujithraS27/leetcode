@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 294**
+**Total Problems: 295**
 
 ## LeetCode Topics
 
@@ -184,6 +184,7 @@ Solutions to LeetCode problems organised by topic.
 | [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 Easy |
 | [199. Binary Tree Right Side View](0199-binary-tree-right-side-view) | 🟡 Medium |
 | [543. Diameter of Binary Tree](0543-diameter-of-binary-tree) | 🟢 Easy |
+| [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
 
 ### Bit Manipulation
 
@@ -209,6 +210,7 @@ Solutions to LeetCode problems organised by topic.
 | [103. Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal) | 🟡 Medium |
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [199. Binary Tree Right Side View](0199-binary-tree-right-side-view) | 🟡 Medium |
+| [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
 
 ### Bucket Sort
 
@@ -337,6 +339,7 @@ Solutions to LeetCode problems organised by topic.
 | [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 Easy |
 | [199. Binary Tree Right Side View](0199-binary-tree-right-side-view) | 🟡 Medium |
 | [543. Diameter of Binary Tree](0543-diameter-of-binary-tree) | 🟢 Easy |
+| [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
 
 ### Design
 
@@ -451,6 +454,7 @@ Solutions to LeetCode problems organised by topic.
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
+| [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
 | [1370. Count Number of Nice Subarrays](1370-count-number-of-nice-subarrays) | 🟡 Medium |
 | [1460. Number of Substrings Containing All Three Characters](1460-number-of-substrings-containing-all-three-characters) | 🟡 Medium |
 | [1960. Check if the Sentence Is Pangram](1960-check-if-the-sentence-is-pangram) | 🟢 Easy |
@@ -703,6 +707,7 @@ Solutions to LeetCode problems organised by topic.
 | [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [1019. Squares of a Sorted Array](1019-squares-of-a-sorted-array) | 🟢 Easy |
+| [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
 | [2423. Minimum Deletions to Make Array Divisible](2423-minimum-deletions-to-make-array-divisible) | 🔴 Hard |
 | [3226. Minimum Number Game](3226-minimum-number-game) | 🟢 Easy |
 | [3321. Type of Triangle](3321-type-of-triangle) | 🟢 Easy |
@@ -804,6 +809,7 @@ Solutions to LeetCode problems organised by topic.
 | [145. Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal) | 🟢 Easy |
 | [199. Binary Tree Right Side View](0199-binary-tree-right-side-view) | 🟡 Medium |
 | [543. Diameter of Binary Tree](0543-diameter-of-binary-tree) | 🟢 Easy |
+| [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
 
 ### Trie
 
