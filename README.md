@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 296**
+**Total Problems: 297**
 
 ## LeetCode Topics
 
@@ -291,6 +291,7 @@ Solutions to LeetCode problems organised by topic.
 | [184. Department Highest Salary](0184-department-highest-salary) | 🟡 Medium |
 | [185. Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 Hard |
 | [196. Delete Duplicate Emails](0196-delete-duplicate-emails) | 🟢 Easy |
+| [196. Delete Duplicate Emails](196-delete-duplicate-emails) | 🟢 Easy |
 | [197. Rising Temperature](0197-rising-temperature) | 🟢 Easy |
 | [262. Trips and Users](0262-trips-and-users) | 🔴 Hard |
 | [570. Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
