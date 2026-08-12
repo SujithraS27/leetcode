@@ -203,6 +203,28 @@ Solutions to LeetCode problems organised by topic.
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [1610. XOR Operation in an Array](1610-xor-operation-in-an-array) | 🟢 Easy |
 
+### Boyer–Moore Majority Vote Algorithm
+
+| Problem | Difficulty |
+| --- | --- |
+| [169. Majority Element](0169-majority-element) | 🟢 Easy |
+| [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
+
+### Boyer–Moore String-Search Algorithm
+
+| Problem | Difficulty |
+| --- | --- |
+| [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy |
+
+### Bracket Sequences
+
+| Problem | Difficulty |
+| --- | --- |
+| [20. Valid Parentheses](0020-valid-parentheses) | 🟢 Easy |
+| [32. Longest Valid Parentheses](0032-longest-valid-parentheses) | 🔴 Hard |
+| [678. Valid Parenthesis String](678-valid-parenthesis-string) | 🟡 Medium |
+| [1078. Remove Outermost Parentheses](1078-remove-outermost-parentheses) | 🟢 Easy |
+
 ### Breadth-First Search
 
 | Problem | Difficulty |
@@ -213,6 +235,12 @@ Solutions to LeetCode problems organised by topic.
 | [104. Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree) | 🟢 Easy |
 | [199. Binary Tree Right Side View](0199-binary-tree-right-side-view) | 🟡 Medium |
 | [1029. Vertical Order Traversal of a Binary Tree](1029-vertical-order-traversal-of-a-binary-tree) | 🔴 Hard |
+
+### Bubble Sort
+
+| Problem | Difficulty |
+| --- | --- |
+| [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
 
 ### Bucket Sort
 
@@ -234,6 +262,13 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [274. H-Index](0274-h-index) | 🟡 Medium |
+
+### DP on Trees
+
+| Problem | Difficulty |
+| --- | --- |
+| [124. Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum) | 🔴 Hard |
+| [543. Diameter of Binary Tree](0543-diameter-of-binary-tree) | 🟢 Easy |
 
 ### Data Stream
 
@@ -402,6 +437,28 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [2507. Number of Common Factors](2507-number-of-common-factors) | 🟢 Easy |
 
+### Euclidean Algorithm
+
+| Problem | Difficulty |
+| --- | --- |
+| [2423. Minimum Deletions to Make Array Divisible](2423-minimum-deletions-to-make-array-divisible) | 🔴 Hard |
+| [2507. Number of Common Factors](2507-number-of-common-factors) | 🟢 Easy |
+
+### Floyd's Cycle Finding Algorithm
+
+| Problem | Difficulty |
+| --- | --- |
+| [141. Linked List Cycle](0141-linked-list-cycle) | 🟢 Easy |
+| [142. Linked List Cycle II](0142-linked-list-cycle-ii) | 🟡 Medium |
+| [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
+
+### Greatest Common Divisor
+
+| Problem | Difficulty |
+| --- | --- |
+| [2423. Minimum Deletions to Make Array Divisible](2423-minimum-deletions-to-make-array-divisible) | 🔴 Hard |
+| [2507. Number of Common Factors](2507-number-of-common-factors) | 🟢 Easy |
+
 ### Greedy
 
 | Problem | Difficulty |
@@ -478,6 +535,12 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [1185. Find in Mountain Array](1185-find-in-mountain-array) | 🔴 Hard |
 
+### Knuth–Morris–Pratt Algorithm
+
+| Problem | Difficulty |
+| --- | --- |
+| [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy |
+
 ### Linked List
 
 | Problem | Difficulty |
@@ -496,6 +559,18 @@ Solutions to LeetCode problems organised by topic.
 | [328. Odd Even Linked List](0328-odd-even-linked-list) | 🟡 Medium |
 | [908. Middle of the Linked List](0908-middle-of-the-linked-list) | 🟢 Easy |
 | [2216. Delete the Middle Node of a Linked List](2216-delete-the-middle-node-of-a-linked-list) | 🟡 Medium |
+
+### Longest Increasing Subsequence
+
+| Problem | Difficulty |
+| --- | --- |
+| [334. Increasing Triplet Subsequence](0334-increasing-triplet-subsequence) | 🟡 Medium |
+
+### Manacher
+
+| Problem | Difficulty |
+| --- | --- |
+| [5. Longest Palindromic Substring](0005-longest-palindromic-substring) | 🟡 Medium |
 
 ### Math
 
@@ -582,6 +657,12 @@ Solutions to LeetCode problems organised by topic.
 | [943. Sum of Subarray Minimums](0943-sum-of-subarray-minimums) | 🟡 Medium |
 | [2227. Sum of Subarray Ranges](2227-sum-of-subarray-ranges) | 🟡 Medium |
 
+### Newton's Method
+
+| Problem | Difficulty |
+| --- | --- |
+| [69. Sqrt(x)](0069-sqrtx) | 🟢 Easy |
+
 ### Number Theory
 
 | Problem | Difficulty |
@@ -603,6 +684,20 @@ Solutions to LeetCode problems organised by topic.
 | [3971. Find Stores with Inventory Imbalance](3971-find-stores-with-inventory-imbalance) | 🟡 Medium |
 | [3996. Find Books with Polarized Opinions](3996-find-books-with-polarized-opinions) | 🟡 Medium |
 | [4025. Find Loyal Customers](4025-find-loyal-customers) | 🟡 Medium |
+
+### Pigeonhole Principle
+
+| Problem | Difficulty |
+| --- | --- |
+| [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
+| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
+
+### Polygons
+
+| Problem | Difficulty |
+| --- | --- |
+| [3321. Type of Triangle](3321-type-of-triangle) | 🟢 Easy |
 
 ### Prefix Sum
 
@@ -641,6 +736,21 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
+
+### Quicksort
+
+| Problem | Difficulty |
+| --- | --- |
+| [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
+| [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
+| [455. Assign Cookies](455-assign-cookies) | 🟢 Easy |
+
+### Range Minimum/Maximum Query
+
+| Problem | Difficulty |
+| --- | --- |
+| [84. Largest Rectangle in Histogram](0084-largest-rectangle-in-histogram) | 🔴 Hard |
+| [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 
 ### Recursion
 
@@ -797,6 +907,13 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [1028. Interval List Intersections](1028-interval-list-intersections) | 🟡 Medium |
 
+### Ternary Search
+
+| Problem | Difficulty |
+| --- | --- |
+| [882. Peak Index in a Mountain Array](0882-peak-index-in-a-mountain-array) | 🟡 Medium |
+| [1185. Find in Mountain Array](1185-find-in-mountain-array) | 🔴 Hard |
+
 ### Tree
 
 | Problem | Difficulty |
@@ -863,3 +980,9 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [128. Longest Consecutive Sequence](0128-longest-consecutive-sequence) | 🟡 Medium |
+
+### Z Algorithm
+
+| Problem | Difficulty |
+| --- | --- |
+| [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy |
