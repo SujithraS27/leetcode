@@ -304,6 +304,7 @@ Solutions to LeetCode problems organised by topic.
 | [595. Big Countries](0595-big-countries) | 🟢 Easy |
 | [595. Big Countries](595-big-countries) | 🟢 Easy |
 | [596. Classes With at Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 Easy |
+| [602. Friend Requests II: Who Has the Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 Medium |
 | [607. Sales Person](0607-sales-person) | 🟢 Easy |
 | [608. Tree Node](0608-tree-node) | 🟡 Medium |
 | [610. Triangle Judgement](0610-triangle-judgement) | 🟢 Easy |
@@ -682,7 +683,6 @@ Solutions to LeetCode problems organised by topic.
 | [167. Two Sum Ii   Input Array Is Sorted](0167-two-sum-ii---input-array-is-sorted) | ⚪ Unknown |
 | [303. Range Sum Query   Immutable](0303-range-sum-query---immutable) | ⚪ Unknown |
 | [304. Range Sum Query 2D   Immutable](0304-range-sum-query-2d---immutable) | ⚪ Unknown |
-| [602. Friend Requests Ii Who Has The Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | ⚪ Unknown |
 | [3816. Dna Pattern Recognition ](3816-dna-pattern-recognition-) | ⚪ Unknown |
 | [3848. Analyze Subscription Conversion ](3848-analyze-subscription-conversion-) | ⚪ Unknown |
 | [3971. Find Stores with Inventory Imbalance](3971-find-stores-with-inventory-imbalance) | 🟡 Medium |
