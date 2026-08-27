@@ -1,4 +1,4 @@
-<p>Table: <code>Queries</code></p>
+<h2><a href="https://leetcode.com/problems/queries-quality-and-percentage">Queries Quality and Percentage</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Queries</code></p>
 
 <pre>
 +-------------+---------+
