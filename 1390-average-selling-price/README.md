@@ -1,4 +1,4 @@
-<p>Table: <code>Prices</code></p>
+<h2><a href="https://leetcode.com/problems/average-selling-price">Average Selling Price</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Prices</code></p>
 
 <pre>
 +---------------+---------+
