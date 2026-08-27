@@ -1,4 +1,4 @@
-<p>Table: <code>Activity</code></p>
+<h2><a href="https://leetcode.com/problems/game-play-analysis-iv">Game Play Analysis IV</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Table: <code>Activity</code></p>
 
 <pre>
 +--------------+---------+
