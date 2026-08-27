@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 304**
+**Total Problems: 305**
 
 ## LeetCode Topics
 
@@ -312,6 +312,7 @@ Solutions to LeetCode problems organised by topic.
 | [608. Tree Node](0608-tree-node) | 🟡 Medium |
 | [610. Triangle Judgement](0610-triangle-judgement) | 🟢 Easy |
 | [619. Biggest Single Number](0619-biggest-single-number) | 🟢 Easy |
+| [619. Biggest Single Number](619-biggest-single-number) | 🟢 Easy |
 | [620. Not Boring Movies](0620-not-boring-movies) | 🟢 Easy |
 | [620. Not Boring Movies](620-not-boring-movies) | 🟢 Easy |
 | [626. Exchange Seats](0626-exchange-seats) | 🟡 Medium |
