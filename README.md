@@ -11,8 +11,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [1. Two Sum](0001-two-sum) | 🟢 Easy |
-| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [11. Container With Most Water](0011-container-with-most-water) | 🟡 Medium |
 | [14. Longest Common Prefix](0014-longest-common-prefix) | 🟢 Easy |
 | [15. 3Sum](0015-3sum) | 🟡 Medium |
@@ -59,8 +59,8 @@ Solutions to LeetCode problems organised by topic.
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [228. Summary Ranges](228-summary-ranges) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
-| [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
 | [238. Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium |
+| [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [260. Single Number III](0260-single-number-iii) | 🟡 Medium |
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
@@ -78,16 +78,16 @@ Solutions to LeetCode problems organised by topic.
 | [485. Max Consecutive Ones](0485-max-consecutive-ones) | 🟢 Easy |
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
 | [503. Next Greater Element II](0503-next-greater-element-ii) | 🟡 Medium |
-| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
-| [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
 | [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
+| [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
 | [735. Asteroid Collision](0735-asteroid-collision) | 🟡 Medium |
 | [745. Find Smallest Letter Greater Than Target](0745-find-smallest-letter-greater-than-target) | 🟢 Easy |
 | [792. Binary Search](0792-binary-search) | 🟢 Easy |
@@ -144,8 +144,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [33. Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array) | 🟡 Medium |
 | [34. Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array) | 🟡 Medium |
 | [35. Search Insert Position](0035-search-insert-position) | 🟢 Easy |
@@ -290,8 +290,8 @@ Solutions to LeetCode problems organised by topic.
 | [183. Customers Who Never Order](0183-customers-who-never-order) | 🟢 Easy |
 | [184. Department Highest Salary](0184-department-highest-salary) | 🟡 Medium |
 | [185. Department Top Three Salaries](0185-department-top-three-salaries) | 🔴 Hard |
-| [196. Delete Duplicate Emails](0196-delete-duplicate-emails) | 🟢 Easy |
 | [196. Delete Duplicate Emails](196-delete-duplicate-emails) | 🟢 Easy |
+| [196. Delete Duplicate Emails](0196-delete-duplicate-emails) | 🟢 Easy |
 | [197. Rising Temperature](0197-rising-temperature) | 🟢 Easy |
 | [262. Trips and Users](0262-trips-and-users) | 🔴 Hard |
 | [570. Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
@@ -394,8 +394,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
+| [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [148. Sort List](0148-sort-list) | 🟡 Medium |
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
@@ -509,8 +509,8 @@ Solutions to LeetCode problems organised by topic.
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
 | [448. Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy |
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
-| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
@@ -591,8 +591,8 @@ Solutions to LeetCode problems organised by topic.
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
 | [371. Sum of Two Integers](0371-sum-of-two-integers) | 🟡 Medium |
 | [412. Fizz Buzz](0412-fizz-buzz) | 🟢 Easy |
-| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [1013. Fibonacci Number](1013-fibonacci-number) | 🟢 Easy |
 | [1370. Count Number of Nice Subarrays](1370-count-number-of-nice-subarrays) | 🟡 Medium |
 | [1406. Subtract the Product and Sum of Digits of an Integer](1406-subtract-the-product-and-sum-of-digits-of-an-integer) | 🟢 Easy |
@@ -691,8 +691,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
-| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 
 ### Polygons
 
@@ -705,15 +705,15 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [209. Minimum Size Subarray Sum](0209-minimum-size-subarray-sum) | 🟡 Medium |
-| [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
 | [238. Product of Array Except Self](238-product-of-array-except-self) | 🟡 Medium |
+| [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
 | [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
-| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
 | [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
+| [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
 | [1206. Corporate Flight Bookings](1206-corporate-flight-bookings) | 🟡 Medium |
@@ -790,8 +790,8 @@ Solutions to LeetCode problems organised by topic.
 | [219. Contains Duplicate II](0219-contains-duplicate-ii) | 🟢 Easy |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
 | [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement) | 🟡 Medium |
-| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
+| [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
