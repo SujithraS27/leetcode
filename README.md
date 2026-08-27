@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 298**
+**Total Problems: 299**
 
 ## LeetCode Topics
 
@@ -301,6 +301,7 @@ Solutions to LeetCode problems organised by topic.
 | [585. Investments in 2016](0585-investments-in-2016) | 🟡 Medium |
 | [586. Customer Placing the Largest Number of Orders](0586-customer-placing-the-largest-number-of-orders) | 🟢 Easy |
 | [595. Big Countries](0595-big-countries) | 🟢 Easy |
+| [595. Big Countries](595-big-countries) | 🟢 Easy |
 | [596. Classes With at Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 Easy |
 | [602. Friend Requests II: Who Has the Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 Medium |
 | [607. Sales Person](0607-sales-person) | 🟢 Easy |
