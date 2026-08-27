@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 302**
+**Total Problems: 303**
 
 ## LeetCode Topics
 
@@ -312,6 +312,7 @@ Solutions to LeetCode problems organised by topic.
 | [610. Triangle Judgement](0610-triangle-judgement) | 🟢 Easy |
 | [619. Biggest Single Number](0619-biggest-single-number) | 🟢 Easy |
 | [620. Not Boring Movies](0620-not-boring-movies) | 🟢 Easy |
+| [620. Not Boring Movies](620-not-boring-movies) | 🟢 Easy |
 | [626. Exchange Seats](0626-exchange-seats) | 🟡 Medium |
 | [627. Swap Sex of Employees](0627-swap-sex-of-employees) | 🟢 Easy |
 | [1135. Customers Who Bought All Products](1135-customers-who-bought-all-products) | 🟡 Medium |
