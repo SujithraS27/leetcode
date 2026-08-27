@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 297**
+**Total Problems: 298**
 
 ## LeetCode Topics
 
@@ -297,6 +297,7 @@ Solutions to LeetCode problems organised by topic.
 | [570. Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
 | [577. Employee Bonus](0577-employee-bonus) | 🟢 Easy |
 | [584. Find Customer Referee](0584-find-customer-referee) | 🟢 Easy |
+| [584. Find Customer Referee](584-find-customer-referee) | 🟢 Easy |
 | [585. Investments in 2016](0585-investments-in-2016) | 🟡 Medium |
 | [586. Customer Placing the Largest Number of Orders](0586-customer-placing-the-largest-number-of-orders) | 🟢 Easy |
 | [595. Big Countries](0595-big-countries) | 🟢 Easy |
