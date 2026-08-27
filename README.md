@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 301**
+**Total Problems: 302**
 
 ## LeetCode Topics
 
@@ -296,6 +296,7 @@ Solutions to LeetCode problems organised by topic.
 | [197. Rising Temperature](0197-rising-temperature) | 🟢 Easy |
 | [262. Trips and Users](0262-trips-and-users) | 🔴 Hard |
 | [570. Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
+| [570. Managers with at Least 5 Direct Reports](570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
 | [577. Employee Bonus](0577-employee-bonus) | 🟢 Easy |
 | [577. Employee Bonus](577-employee-bonus) | 🟢 Easy |
 | [584. Find Customer Referee](0584-find-customer-referee) | 🟢 Easy |
