@@ -1,4 +1,4 @@
-<p>Table: <code>Project</code></p>
+<h2><a href="https://leetcode.com/problems/project-employees-i">Project Employees I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Project</code></p>
 
 <pre>
 +-------------+---------+
