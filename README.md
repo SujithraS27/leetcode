@@ -27,8 +27,8 @@ Solutions to LeetCode problems organised by topic.
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
-| [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [55. Jump Game](55-jump-game) | 🟡 Medium |
 | [55. Jump Game](0055-jump-game) | 🟡 Medium |
 | [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
@@ -78,16 +78,16 @@ Solutions to LeetCode problems organised by topic.
 | [485. Max Consecutive Ones](0485-max-consecutive-ones) | 🟢 Easy |
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
 | [503. Next Greater Element II](0503-next-greater-element-ii) | 🟡 Medium |
-| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [682. Baseball Game](0682-baseball-game) | 🟢 Easy |
-| [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
+| [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [735. Asteroid Collision](0735-asteroid-collision) | 🟡 Medium |
 | [745. Find Smallest Letter Greater Than Target](0745-find-smallest-letter-greater-than-target) | 🟢 Easy |
 | [792. Binary Search](0792-binary-search) | 🟢 Easy |
@@ -295,26 +295,26 @@ Solutions to LeetCode problems organised by topic.
 | [197. Rising Temperature](197-rising-temperature) | 🟢 Easy |
 | [197. Rising Temperature](0197-rising-temperature) | 🟢 Easy |
 | [262. Trips and Users](0262-trips-and-users) | 🔴 Hard |
-| [570. Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
 | [570. Managers with at Least 5 Direct Reports](570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
-| [577. Employee Bonus](0577-employee-bonus) | 🟢 Easy |
+| [570. Managers with at Least 5 Direct Reports](0570-managers-with-at-least-5-direct-reports) | 🟡 Medium |
 | [577. Employee Bonus](577-employee-bonus) | 🟢 Easy |
-| [584. Find Customer Referee](0584-find-customer-referee) | 🟢 Easy |
+| [577. Employee Bonus](0577-employee-bonus) | 🟢 Easy |
 | [584. Find Customer Referee](584-find-customer-referee) | 🟢 Easy |
+| [584. Find Customer Referee](0584-find-customer-referee) | 🟢 Easy |
 | [585. Investments in 2016](0585-investments-in-2016) | 🟡 Medium |
 | [586. Customer Placing the Largest Number of Orders](0586-customer-placing-the-largest-number-of-orders) | 🟢 Easy |
-| [595. Big Countries](0595-big-countries) | 🟢 Easy |
 | [595. Big Countries](595-big-countries) | 🟢 Easy |
-| [596. Classes With at Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 Easy |
+| [595. Big Countries](0595-big-countries) | 🟢 Easy |
 | [596. Classes With at Least 5 Students](596-classes-with-at-least-5-students) | 🟢 Easy |
+| [596. Classes With at Least 5 Students](0596-classes-with-at-least-5-students) | 🟢 Easy |
 | [602. Friend Requests II: Who Has the Most Friends](0602-friend-requests-ii-who-has-the-most-friends) | 🟡 Medium |
 | [607. Sales Person](0607-sales-person) | 🟢 Easy |
 | [608. Tree Node](0608-tree-node) | 🟡 Medium |
 | [610. Triangle Judgement](0610-triangle-judgement) | 🟢 Easy |
-| [619. Biggest Single Number](0619-biggest-single-number) | 🟢 Easy |
 | [619. Biggest Single Number](619-biggest-single-number) | 🟢 Easy |
-| [620. Not Boring Movies](0620-not-boring-movies) | 🟢 Easy |
+| [619. Biggest Single Number](0619-biggest-single-number) | 🟢 Easy |
 | [620. Not Boring Movies](620-not-boring-movies) | 🟢 Easy |
+| [620. Not Boring Movies](0620-not-boring-movies) | 🟢 Easy |
 | [626. Exchange Seats](0626-exchange-seats) | 🟡 Medium |
 | [627. Swap Sex of Employees](0627-swap-sex-of-employees) | 🟢 Easy |
 | [1135. Customers Who Bought All Products](1135-customers-who-bought-all-products) | 🟡 Medium |
@@ -517,8 +517,8 @@ Solutions to LeetCode problems organised by topic.
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
 | [448. Find All Numbers Disappeared in an Array](0448-find-all-numbers-disappeared-in-an-array) | 🟢 Easy |
 | [496. Next Greater Element I](0496-next-greater-element-i) | 🟢 Easy |
-| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
@@ -599,8 +599,8 @@ Solutions to LeetCode problems organised by topic.
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
 | [371. Sum of Two Integers](0371-sum-of-two-integers) | 🟡 Medium |
 | [412. Fizz Buzz](0412-fizz-buzz) | 🟢 Easy |
-| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [1013. Fibonacci Number](1013-fibonacci-number) | 🟢 Easy |
 | [1370. Count Number of Nice Subarrays](1370-count-number-of-nice-subarrays) | 🟡 Medium |
 | [1406. Subtract the Product and Sum of Digits of an Integer](1406-subtract-the-product-and-sum-of-digits-of-an-integer) | 🟢 Easy |
@@ -629,8 +629,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
-| [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [1791. Richest Customer Wealth](1791-richest-customer-wealth) | 🟢 Easy |
 
@@ -699,8 +699,8 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
-| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 
 ### Polygons
 
@@ -717,11 +717,11 @@ Solutions to LeetCode problems organised by topic.
 | [238. Product of Array Except Self](0238-product-of-array-except-self) | 🟡 Medium |
 | [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
-| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
+| [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
-| [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
+| [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
 | [1046. Max Consecutive Ones III](1046-max-consecutive-ones-iii) | 🟡 Medium |
 | [1206. Corporate Flight Bookings](1206-corporate-flight-bookings) | 🟡 Medium |
@@ -777,8 +777,8 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
-| [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
+| [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
 | [258. Add Digits](0258-add-digits) | 🟢 Easy |
 | [412. Fizz Buzz](0412-fizz-buzz) | 🟢 Easy |
 | [657. Robot Return to Origin](0657-robot-return-to-origin) | 🟢 Easy |
