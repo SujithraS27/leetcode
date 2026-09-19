@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 306**
+**Total Problems: 307**
 
 ## LeetCode Topics
 
@@ -27,6 +27,7 @@ Solutions to LeetCode problems organised by topic.
 | [42. Trapping Rain Water](0042-trapping-rain-water) | 🔴 Hard |
 | [45. Jump Game II](0045-jump-game-ii) | 🟡 Medium |
 | [48. Rotate Image](48-rotate-image) | 🟡 Medium |
+| [49. Group Anagrams](49-group-anagrams) | 🟡 Medium |
 | [53. Maximum Subarray](0053-maximum-subarray) | 🟡 Medium |
 | [54. Spiral Matrix](54-spiral-matrix) | 🟡 Medium |
 | [54. Spiral Matrix](0054-spiral-matrix) | 🟡 Medium |
@@ -501,6 +502,7 @@ Solutions to LeetCode problems organised by topic.
 | [13. Roman to Integer](0013-roman-to-integer) | 🟢 Easy |
 | [17. Letter Combinations of a Phone Number](0017-letter-combinations-of-a-phone-number) | 🟡 Medium |
 | [41. First Missing Positive](0041-first-missing-positive) | 🔴 Hard |
+| [49. Group Anagrams](49-group-anagrams) | 🟡 Medium |
 | [73. Set Matrix Zeroes](73-set-matrix-zeroes) | 🟡 Medium |
 | [128. Longest Consecutive Sequence](0128-longest-consecutive-sequence) | 🟡 Medium |
 | [141. Linked List Cycle](0141-linked-list-cycle) | 🟢 Easy |
@@ -814,6 +816,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [15. 3Sum](0015-3sum) | 🟡 Medium |
+| [49. Group Anagrams](49-group-anagrams) | 🟡 Medium |
 | [56. Merge Intervals](56-merge-intervals) | 🟡 Medium |
 | [75. Sort Colors](0075-sort-colors) | 🟡 Medium |
 | [88. Merge Sorted Array](0088-merge-sorted-array) | 🟢 Easy |
@@ -879,6 +882,7 @@ Solutions to LeetCode problems organised by topic.
 | [20. Valid Parentheses](0020-valid-parentheses) | 🟢 Easy |
 | [28. Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string) | 🟢 Easy |
 | [32. Longest Valid Parentheses](0032-longest-valid-parentheses) | 🔴 Hard |
+| [49. Group Anagrams](49-group-anagrams) | 🟡 Medium |
 | [58. Length of Last Word](0058-length-of-last-word) | 🟢 Easy |
 | [125. Valid Palindrome](0125-valid-palindrome) | 🟢 Easy |
 | [151. Reverse Words in a String](0151-reverse-words-in-a-string) | 🟡 Medium |
