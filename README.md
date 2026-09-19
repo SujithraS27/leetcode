@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 308**
+**Total Problems: 309**
 
 ## LeetCode Topics
 
@@ -71,6 +71,7 @@ Solutions to LeetCode problems organised by topic.
 | [287. Find the Duplicate Number](0287-find-the-duplicate-number) | 🟡 Medium |
 | [303. Range Sum Query - Immutable](303-range-sum-query-immutable) | 🟢 Easy |
 | [334. Increasing Triplet Subsequence](0334-increasing-triplet-subsequence) | 🟡 Medium |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [410. Split Array Largest Sum](0410-split-array-largest-sum) | 🔴 Hard |
 | [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
@@ -249,6 +250,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 
 ### Counting
@@ -257,6 +259,7 @@ Solutions to LeetCode problems organised by topic.
 | --- | --- |
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [387. First Unique Character in a String](0387-first-unique-character-in-a-string) | 🟢 Easy |
 
@@ -412,6 +415,7 @@ Solutions to LeetCode problems organised by topic.
 | [169. Majority Element](0169-majority-element) | 🟢 Easy |
 | [190. Reverse Bits](0190-reverse-bits) | 🟢 Easy |
 | [191. Number of 1 Bits](0191-number-of-1-bits) | 🟢 Easy |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [954. Maximum Sum Circular Subarray](0954-maximum-sum-circular-subarray) | 🟡 Medium |
 
@@ -516,6 +520,7 @@ Solutions to LeetCode problems organised by topic.
 | [229. Majority Element II](0229-majority-element-ii) | 🟡 Medium |
 | [242. Valid Anagram](0242-valid-anagram) | 🟢 Easy |
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [387. First Unique Character in a String](0387-first-unique-character-in-a-string) | 🟢 Easy |
 | [424. Longest Repeating Character Replacement](0424-longest-repeating-character-replacement) | 🟡 Medium |
@@ -540,6 +545,7 @@ Solutions to LeetCode problems organised by topic.
 | Problem | Difficulty |
 | --- | --- |
 | [239. Sliding Window Maximum](0239-sliding-window-maximum) | 🔴 Hard |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [2423. Minimum Deletions to Make Array Divisible](2423-minimum-deletions-to-make-array-divisible) | 🔴 Hard |
 | [3226. Minimum Number Game](3226-minimum-number-game) | 🟢 Easy |
@@ -751,6 +757,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 
 ### Quicksort
@@ -831,6 +838,7 @@ Solutions to LeetCode problems organised by topic.
 | [242. Valid Anagram](0242-valid-anagram) | 🟢 Easy |
 | [268. Missing Number](0268-missing-number) | 🟢 Easy |
 | [274. H-Index](0274-h-index) | 🟡 Medium |
+| [347. Top K Frequent Elements](347-top-k-frequent-elements) | 🟡 Medium |
 | [347. Top K Frequent Elements](0347-top-k-frequent-elements) | 🟡 Medium |
 | [435. Non-overlapping Intervals](435-non-overlapping-intervals) | 🟡 Medium |
 | [442. Find All Duplicates in an Array](0442-find-all-duplicates-in-an-array) | 🟡 Medium |
