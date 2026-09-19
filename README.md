@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 305**
+**Total Problems: 306**
 
 ## LeetCode Topics
 
@@ -10,6 +10,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [1. Two Sum](1-two-sum) | 🟢 Easy |
 | [1. Two Sum](0001-two-sum) | 🟢 Easy |
 | [4. Median of Two Sorted Arrays](4-median-of-two-sorted-arrays) | 🔴 Hard |
 | [4. Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays) | 🔴 Hard |
@@ -493,6 +494,7 @@ Solutions to LeetCode problems organised by topic.
 
 | Problem | Difficulty |
 | --- | --- |
+| [1. Two Sum](1-two-sum) | 🟢 Easy |
 | [1. Two Sum](0001-two-sum) | 🟢 Easy |
 | [3. Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters) | 🟡 Medium |
 | [12. Integer to Roman](0012-integer-to-roman) | 🟡 Medium |
