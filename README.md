@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems organised by topic.
 
-**Total Problems: 307**
+**Total Problems: 308**
 
 ## LeetCode Topics
 
@@ -84,6 +84,7 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [540. Single Element in a Sorted Array](0540-single-element-in-a-sorted-array) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
+| [560. Subarray Sum Equals K](560-subarray-sum-equals-k) | 🟡 Medium |
 | [643. Maximum Average Subarray I](0643-maximum-average-subarray-i) | 🟢 Easy |
 | [643. Maximum Average Subarray I](643-maximum-average-subarray-i) | 🟢 Easy |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
@@ -524,6 +525,7 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
+| [560. Subarray Sum Equals K](560-subarray-sum-equals-k) | 🟡 Medium |
 | [645. Set Mismatch](0645-set-mismatch) | 🟢 Easy |
 | [940. Fruit Into Baskets](0940-fruit-into-baskets) | 🟡 Medium |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
@@ -724,6 +726,7 @@ Solutions to LeetCode problems organised by topic.
 | [523. Continuous Subarray Sum](0523-continuous-subarray-sum) | 🟡 Medium |
 | [523. Continuous Subarray Sum](523-continuous-subarray-sum) | 🟡 Medium |
 | [560. Subarray Sum Equals K](0560-subarray-sum-equals-k) | 🟡 Medium |
+| [560. Subarray Sum Equals K](560-subarray-sum-equals-k) | 🟡 Medium |
 | [724. Find Pivot Index](0724-find-pivot-index) | 🟢 Easy |
 | [724. Find Pivot Index](724-find-pivot-index) | 🟢 Easy |
 | [966. Binary Subarrays With Sum](0966-binary-subarrays-with-sum) | 🟡 Medium |
